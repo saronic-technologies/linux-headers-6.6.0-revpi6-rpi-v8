@@ -1,0 +1,1 @@
+#define UTS_VERSION "#1+deb12+1 SMP PREEMPT_RT Wed, 27 Nov 2024 14:13:38 +0000"
